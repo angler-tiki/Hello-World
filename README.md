@@ -1,2 +1,3 @@
 # Game-Practice
-As a newbie for coding, these are some of the games that I started making 
+I started coding Python on Dec. 2019.
+I am simply editing this part. 
